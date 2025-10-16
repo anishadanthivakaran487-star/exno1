@@ -47,6 +47,7 @@ print("\nAfter Cleaning:\n", df.isnull().sum())
 df.to_csv('Cleaned_Data_set.csv', index=False)
 
 print("\nData cleaning completed and saved as 'Cleaned_Data_set.csv'")
+```
 
 <img width="414" height="513" alt="Screenshot 2025-10-14 133518" src="https://github.com/user-attachments/assets/20446378-6b10-4e0d-8b6b-b32b85509fec" />
 
